@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ethereum-pessimism/media/f7147b15246ae829c8e628e8e851347235a00193/assets/svg/Blue%20Text.svg" alt="Logo" width="60%" height="30%">
 </p>
 
